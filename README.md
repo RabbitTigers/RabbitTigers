@@ -5,22 +5,25 @@
 # 👋 Hello, I'm RabbitTigers
 
 ## 🚀 About Me
-I am a passionate embedded system engineer with over 4 years of hands-on experience in designing and developing innovative solutions for the embedded world. My journey in the field has equipped me with a deep understanding of hardware-software integration, real-time systems, and low-level programming.
+I am a passionate PCB designer with over 7 years of hands-on experience in designing and developing innovative solutions for the PCB Design world. My journey in the field has equipped me with a deep understanding of circuit design, pcb layout, hardware-software integration, real-time systems, and low-level programming.
 
 ## 💼 Professional Experience 
-- **Electrical Engineering Intern** at First Co. Dallas, TX, United States (Sept 2023-present)
+- **Senior PCB Designer** at Microsoft Corporation, Redmond, Washington, USA.
+  -As an experienced PCB designer with over 7 years of industry experience, I am confident in my ability to deliver exceptional work that meets the requirements of the job and exceeds expectations.
+  -I have a proven track record of delivering high-quality PCB designs that are robust, reliable, and manufacturable. Throughout my career, I have worked with an array of clients across a range of industries, including automotive, telecommunications, and consumer electronics. In each of my roles, I have consistently delivered work that has resulted in greater efficiency, improved performance, and higher customer satisfaction.
+- **Electrical Engineering Intern** at First Co. Dallas, TX, United States (Sept 2020-2022)
   - Implemented various testing methodologies to ensure the reliability and accuracy of the driver, resulting in a 99% reduction in sensor communication errors.
   - Developed and optimized drivers for PIC18F25K50 GPIO, ADC, and Timers to enhance analog frontend signal processing, resulting in a 20% increase in signal accuracy.
   - Conducted test in accordance with ASHRAE Standard 193-2010 (RA 2014) to determine air leakage in packaged air conditioning unit.
   - Developed innovative design solutions for tubes and fixtures using AutoCAD Inventor, resulting in a 20% reduction in manufacturing costs.
  
-- **Embedded Systems Engineer** at Accio Robotics Bangalore, India  (Dec 2021 – July 2022)
+- **Embedded Systems Engineer** at Accio Robotics Bangalore, India  (Dec 2018 – July 2020)
   - Led the development of CAN & Ethernet-based drivers for autonomous mobile robots, increasing data transfer rates and improving connectivity with external systems by 25%.
   - Created and maintained software documentation for both Python and C projects, ensuring compliance with industry standards and reducing error rates by 15%.
   - Developed low-level drivers for embedded communication protocols such CAN, UART/USART, SPI, I2C, I2S, Ethernet, and DCMI reducing code base size by 30%.
   - Managed version control for multiple projects simultaneously using Git, ensuring proper code collaboration across teams while maintaining strict adherence to release   schedules, resulting in an on-time delivery rate of over 95%.
  
-- **Hardware Engineer** - Freelance Mumbai & Bangalore, India  (Aug 2019 – Dec 2021)
+- **Hardware Engineer** - Freelance Mumbai & Bangalore, India  (Aug 2016 – Dec 2018)
   -  Project: Robotic Arm Control System  
      *  Developed firmware for a robotic arm control system, implementing inverse kinematics algorithms and motion planning techniques.
      *  Collaborated with mechanical engineers to optimize the control system's dynamics, achieving precise and smooth robotic arm movements.
@@ -43,6 +46,8 @@ I am a passionate embedded system engineer with over 4 years of hands-on experie
       * Successfully delivered the project ahead of schedule, meeting all project milestones and receiving commendation from the client.
 
 ## 🛠️ Skills
+- **Design:** Altium Designer, KiCad, Eagle, Xepedition, Cadence
+- **Sumulation:** pSpice, Mix-Maxed Sim, Maltisim, Modelsim 
 - **Programming Languages:** C, C++, Python, HTML, CSS, Rust, Embedded C/C++, Java, System Verilog, VHDL, MATLAB
 - **Microcontrollers:** STMicroelectronics, NXP, TI, Microchip, Atmel
 - **Communication Protocols:** I2C, SPI, UART/USART, CAN, Ethernet, I2S, TCP/IP, USB, SAI, SDIO, SWD, JTAG, BacNET
