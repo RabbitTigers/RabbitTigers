@@ -1,4 +1,4 @@
-<img src="python-blogn-banner2.png">
+<img src="readme.PNG">
 <h1 align="center">Hi 👋, I'm RabbitTigers</h1>
 <h3 align="center">I'm senior PCB designer with 7 years experience.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RabbitTigers&label=Profile%20views&color=0e75b6&style=flat" alt="RabbitTigers" /> </p>
