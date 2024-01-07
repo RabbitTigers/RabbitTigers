@@ -8,10 +8,10 @@
 I am a passionate PCB designer with over 7 years of hands-on experience in designing and developing innovative solutions for the PCB Design world. My journey in the field has equipped me with a deep understanding of circuit design, pcb layout, hardware-software integration, real-time systems, and low-level programming.
 
 ## 💼 Professional Experience 
-- **Senior PCB Designer** at Microsoft Corporation, Redmond, Washington, USA.
-  -As an experienced PCB designer with over 7 years of industry experience, I am confident in my ability to deliver exceptional work that meets the requirements of the job and exceeds expectations.
-  -I have a proven track record of delivering high-quality PCB designs that are robust, reliable, and manufacturable. Throughout my career, I have worked with an array of clients across a range of industries, including automotive, telecommunications, and consumer electronics. In each of my roles, I have consistently delivered work that has resulted in greater efficiency, improved performance, and higher customer satisfaction.
-- **Electrical Engineering Intern** at First Co. Dallas, TX, United States (Sept 2020-2022)
+- **Senior PCB Designer** at Microsoft Corporation, Redmond, Washington, USA. (March 2022- present)
+  - As an experienced PCB designer with over 7 years of industry experience, I am confident in my ability to deliver exceptional work that meets the requirements of the job and exceeds expectations.
+  - I have a proven track record of delivering high-quality PCB designs that are robust, reliable, and manufacturable. Throughout my career, I have worked with an array of clients across a range of industries, including automotive, telecommunications, and consumer electronics. In each of my roles, I have consistently delivered work that has resulted in greater efficiency, improved performance, and higher customer satisfaction.
+- **Electrical Engineering Intern** at First Co. Dallas, TX, United States (Sept 2020- March 2022)
   - Implemented various testing methodologies to ensure the reliability and accuracy of the driver, resulting in a 99% reduction in sensor communication errors.
   - Developed and optimized drivers for PIC18F25K50 GPIO, ADC, and Timers to enhance analog frontend signal processing, resulting in a 20% increase in signal accuracy.
   - Conducted test in accordance with ASHRAE Standard 193-2010 (RA 2014) to determine air leakage in packaged air conditioning unit.
