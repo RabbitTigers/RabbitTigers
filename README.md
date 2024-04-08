@@ -8,7 +8,7 @@
 I am a passionate PCB designer with over 7 years of hands-on experience in designing and developing innovative solutions for the PCB Design world. My journey in the field has equipped me with a deep understanding of circuit design, pcb layout, hardware-software integration, real-time systems, and low-level programming.
 
 ## 💼 Professional Experience 
-- **Senior PCB Designer** at Microsoft Corporation, Redmond, Washington, USA. (March 2022- present)
+- **Senior PCB Designer** at Wolfspeed Corporation, Redmond, Washington, USA. (March 2022- present)
   - As an experienced PCB designer with over 7 years of industry experience, I am confident in my ability to deliver exceptional work that meets the requirements of the job and exceeds expectations.
   - I have a proven track record of delivering high-quality PCB designs that are robust, reliable, and manufacturable. Throughout my career, I have worked with an array of clients across a range of industries, including automotive, telecommunications, and consumer electronics. In each of my roles, I have consistently delivered work that has resulted in greater efficiency, improved performance, and higher customer satisfaction.
 - **Electrical Engineering Intern** at First Co. Dallas, TX, United States (Sept 2020- March 2022)
@@ -55,13 +55,6 @@ I am a passionate PCB designer with over 7 years of hands-on experience in desig
 - **RTOS:** FreeRTOS, ChibiOS, CMSIS RTOS
 - **Embedded Software Development:** Bare-metal programming, Firmware development, Real-Time System development
  
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kunalsalvi63)
-
-## 📚 Education
-- **Bachelor of Engineering in Electronics** from University of Mumbai (2019)
-- **Masters of Science in Electrical Engineering** from University of Texas at Arlington (2024)
 
 
 
