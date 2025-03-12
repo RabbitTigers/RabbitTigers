@@ -13,12 +13,16 @@ Seasoned PCB Design Engineer with 10+ years of experience in designing and deliv
 
   ●	Designed High-Speed, Multi-Layer PCBs for IoT Applications
     Led the design of a livestock monitoring system, incorporating high-speed communication modules (LoRaWAN) and low-power microcontrollers (STM32). Utilized Cadence Allegro and Altium Designer to optimize signal integrity and thermal management.
+  
   ●	Advanced Constraint Management
     Applied advanced electrical constraint sets using Cadence Constraint Manager to ensure compliance with high-speed design requirements, achieving reliable performance in rural environments.
+  
   ●	Implemented Robust Communication Solutions
     Successfully integrated the LoRaWAN module, enabling reliable long-range communication in rural environments for real-time livestock condition monitoring.
+  
   ●	Optimized PCB Design for Reliability and Performance
     Designed a high-efficiency PCB with HDI and high-speed design principles, ensuring signal integrity, thermal management, and compliance with EMI/EMC standards.
+  
   ●	Delivered Impactful Results
     The IoT monitoring system improved livestock health management for farmers by providing real-time data and early alerts for critical conditions, reducing livestock mortality and improving overall farm efficiency.
 
