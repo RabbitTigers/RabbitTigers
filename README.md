@@ -26,28 +26,38 @@ Seasoned PCB Design Engineer with 10+ years of experience in designing and deliv
   
   ●	Designed and Developed Wearable PEMF Devices for Healthcare Applications
     Played a crucial role in the healthcare field by designing and developing wearable Pulsed Electromagnetic Field (PEMF) devices. These devices provided innovative solutions for real-time health monitoring, enhancing patient care and outcomes.
+  
   ●	PCB Design and Layout for PEMF Systems
     Spearheaded the PCB design and layout process for PEMF systems, focusing on high-performance and reliability in wearable applications. Ensured the PCBs were compact, durable, and tailored to meet the stringent requirements of healthcare applications.
+  
   ●	IoT and Connectivity Expertise
     Designed and developed PCB solutions for IoT applications, integrating advanced connectivity features to enhance functionality and user experience. Ensured compliance with industry standards for signal integrity, thermal management, and EMI/EMC.
+  
   ●	Optimized PCB Design for Reliability and Performance
     Designed high-efficiency PCBs with HDI and high-speed design principles, ensuring signal integrity, thermal management, and compliance with EMI/EMC standards.
  
 - **Embedded Systems Engineer** at Intellicom, Inc | (July 2014 – May 2017)
 
   ●	Experienced with ARM Cortex-M, AVR, and PIC microcontrollers and Implemented communication protocols like I2C, SPI, UART and CAN.
+  
   ●	Worked with IDEs like Keil, IAR Embedded Workbench, Atmel Studio and Arduino.
+  
   ●	Created single-layer and double-layer PCBs for prototyping production.
+  
   ●	Integrated PCB designs with firmware requirements.
+  
 
 ## 🛠 Additional Projects
 
   ●	Nairobi High Powered LED Lights (250-500 Watt)
     This was a risky and innovative job. I innovated technology not previously used in the field of lighting to control voltage ripple for use with Infrared, UV-A, B, and C, Color Temps, and RGB. I also designed light cards and used the concept of prioritizing the use of Voltage over Current to deliver power and keep the system temperature down.
+    
   ●	Drone Release System
     A risky project where safety was paramount. Zero mistakes could be made and we were successful. Most of the project is hidden via NDA.
+    
   ●	8x8 LED Matrix Display
-    A massive modular led sign was designed for use in businesses. It included an encoder that kids could use to draw designs while their teeth were worked on for a dentistry business or could display intricate light shows
+    A massive modular led sign was designed for use in businesses. It included an encoder that kids could use to draw designs while their teeth were worked on for a dentistry business or could display intricate light shows.
+    
   ●	Litesys LED Construction Sign
     Modular LED Construction signs used for traffic control and monitoring. Displayed speeds, messages, and warnings. Often mounted on DoT trucks. Had to pass rigorous regulatory measures to sell to states.
 
