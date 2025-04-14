@@ -1,5 +1,4 @@
 
-<img src="readme.PNG">
 
 
 # 👋 Hello, I'm Cody Hubman
