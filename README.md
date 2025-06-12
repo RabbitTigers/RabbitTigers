@@ -1,12 +1,9 @@
-
-# 👋 Hello, I'm Cody Hubman
-
 ## 🚀 About Me
 
 Seasoned PCB Design Engineer with 10+ years of experience in designing and delivering high-performance, multi-layer, and high-speed PCBs for complex IoT, medical, and industrial applications. Proficient in Cadence Allegro, Altium Designer, and Mentor PADS, with a strong focus on signal integrity, power integrity, and EMI/EMC compliance. Adept at collaborating with cross-functional teams, optimizing designs for manufacturability (DFM), and ensuring zero-defect layouts. Proven track record of leading projects from concept to production, delivering innovative solutions for diverse industries, including telecom, medical, and consumer electronics.
 
 ## 💼 Professional Experience 
-- **Senior PCB Design Engineer** at Evanswerks, Inc.| Toronto, CA. (January 2021- present)
+- **Senior PCB Design Engineer** at Upwork | (Sep 2020- present)
 
   ●	Designed High-Speed, Multi-Layer PCBs for IoT Applications
     Led the design of a livestock monitoring system, incorporating high-speed communication modules (LoRaWAN) and low-power microcontrollers (STM32). Utilized Cadence Allegro and Altium Designer to optimize signal integrity and thermal management.
@@ -23,7 +20,7 @@ Seasoned PCB Design Engineer with 10+ years of experience in designing and deliv
   ●	Delivered Impactful Results
     The IoT monitoring system improved livestock health management for farmers by providing real-time data and early alerts for critical conditions, reducing livestock mortality and improving overall farm efficiency.
 
-- **Printed Circuit Board Designer** at Intellicom, Inc.| 145 Durham, NC. (May 2017- January 2021)
+- **Embedded System Engineer** at EvanWerks, Inc | (May 2020- Feb 2024)
   
   ●	Designed and Developed Wearable PEMF Devices for Healthcare Applications
     Played a crucial role in the healthcare field by designing and developing wearable Pulsed Electromagnetic Field (PEMF) devices. These devices provided innovative solutions for real-time health monitoring, enhancing patient care and outcomes.
@@ -37,7 +34,7 @@ Seasoned PCB Design Engineer with 10+ years of experience in designing and deliv
   ●	Optimized PCB Design for Reliability and Performance
     Designed high-efficiency PCBs with HDI and high-speed design principles, ensuring signal integrity, thermal management, and compliance with EMI/EMC standards.
  
-- **Embedded Systems Engineer** at Intellicom, Inc | (July 2014 – May 2017)
+- **PCB Design & Firmware Developer** at Litesys, Inc | (Sep 2014 – Aug 2020)
 
   ●	Experienced with ARM Cortex-M, AVR, and PIC microcontrollers and Implemented communication protocols like I2C, SPI, UART and CAN.
   
